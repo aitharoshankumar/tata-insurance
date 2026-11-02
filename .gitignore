@@ -1,0 +1,38 @@
+node_modules/
+.env
+*.log
+# Linux server files
+.bash_history
+.bashrc
+.cache/
+.gitconfig
+.lesshst
+.local/
+.profile
+.wget-hsts
+
+# SSH and credentials
+.ssh/
+.env
+.env.*
+!.env.example
+
+# Minikube
+.minikube/
+minikube-linux-amd64
+
+# NPM
+.npm/
+
+# Other files
+snap/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
