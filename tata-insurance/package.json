@@ -1,0 +1,7 @@
+{
+  "name":"tata-aia-independent-advisor-site","version":"1.0.0","private":true,
+  "description":"Independent insurance advisor information and enquiry website",
+  "scripts":{"start":"node server.js","dev":"node --watch server.js"},
+  "dependencies":{"dotenv":"^16.4.5","express":"^4.21.2","express-rate-limit":"^7.5.0","helmet":"^8.0.0","nodemailer":"^6.10.1"},
+  "engines":{"node":">=20"}
+}
